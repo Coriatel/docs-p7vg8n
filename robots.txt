@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Coriatel.github.io/docs-p7vg8n/sitemap.xml
